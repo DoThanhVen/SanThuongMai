@@ -1,0 +1,14 @@
+.chartjs-tooltip table {
+    width: 100%;
+
+    td {
+        padding: 0;
+    }
+}
+
+.timer {
+    width: 150px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+}
